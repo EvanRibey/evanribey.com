@@ -5,13 +5,13 @@
       <h1 class="body-information__title">Evan Ribey</h1>
       <hr class="body-information__keyline" />
       <p class="body-information-summary">
-        Full-Stack Developer at
+        Web Developer at
         <a
-          href="https://www.himandher.ca"
+          href="https://gobridgit.com/"
           class="body-information-summary__link"
           target="_blank"
         >
-          Him &amp; Her Inc.
+          Bridgit Inc.
         </a>
       </p>
       <p class="body-information-summary">
