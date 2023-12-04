@@ -38,16 +38,6 @@
             <i class="fab fa-github"></i>
           </a>
         </li>
-        <li class="body-information-links-item">
-          <a
-            target="_blank"
-            href="https://twitter.com/evanribey"
-            class="body-information-links-item-link"
-            title="Twitter Profile"
-          >
-            <i class="fab fa-twitter"></i>
-          </a>
-        </li>
       </ul>
     </div>
   </div>
@@ -57,7 +47,7 @@
 export default {
   head() {
     return {
-      title: 'Evan Ribey | Full-Stack Developer - Waterloo ON',
+      title: 'Evan Ribey | Full-Stack Developer - Kitchener ON',
       meta: [
         {
           hid: 'og:url',
@@ -77,7 +67,7 @@ export default {
         {
           hid: 'og:title',
           property: 'og:title',
-          content: 'Evan Ribey | Full-Stack Developer - Waterloo ON',
+          content: 'Evan Ribey | Full-Stack Developer - Kitchener ON',
         },
         {
           hid: 'og:description',
@@ -98,7 +88,7 @@ export default {
         {
           hid: 'twitter:title',
           name: 'twitter:title',
-          content: 'Evan Ribey | Full-Stack Developer - Waterloo ON',
+          content: 'Evan Ribey | Full-Stack Developer - Kitchener ON',
         },
         {
           hid: 'twitter:description',
