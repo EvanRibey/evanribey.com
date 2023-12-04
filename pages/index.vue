@@ -15,7 +15,7 @@
         </a>
       </p>
       <p class="body-information-summary">
-        I like solving puzzles while enjoying a nice cup of coffee. 
+        I like solving puzzles while enjoying a nice cup of coffee.
       </p>
       <ul class="body-information-links">
         <li class="body-information-links-item">
