@@ -5,14 +5,7 @@
       <h1 class="body-information__title">Evan Ribey</h1>
       <hr class="body-information__keyline" />
       <p class="body-information-summary">
-        Web Developer at
-        <a
-          href="https://gobridgit.com/"
-          class="body-information-summary__link"
-          target="_blank"
-        >
-          Bridgit Inc.
-        </a>
+        Full-Stack Developer with seven years of industry experience.
       </p>
       <p class="body-information-summary">
         I like solving puzzles while enjoying a nice cup of coffee.
@@ -197,7 +190,6 @@ export default {
       line-height: 2.5rem;
       padding-left: 5px;
       margin: 6px 0;
-      max-width: 80%;
       letter-spacing: 0.1rem;
 
       &:last-of-type {
