@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Home from './components/Home.vue';
-import './styles/app.less';
 </script>
 
 <template>
@@ -13,5 +12,16 @@ html {
   --nunito: 'Nunito Sans', sans-serif;
 
   --sm: 768px;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html, body
+{
+  background-color: #fff;
+  color: #000;
+  margin: 0;
 }
 </style>
